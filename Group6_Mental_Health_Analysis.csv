@@ -1,0 +1,501 @@
+﻿Text,Person Type,Sleep Amount(hours),Drink Type,Mental Health,Source
+Reviewing evidence until midnight is exhausting.,Lawyer,6,Green Tea,Restless,Survey
+Syllabus planning leaves me mentally tired.,Teacher,7,Herbal Tea,Overwhelmed,Interview
+Technical meetings all day are mentally exhausting.,Engineer,8,Green Tea,Overwhelmed,Forum
+Balancing assignments and social life stresses me.,Student,8,Coffee,Nervous,Social Media
+Double shifts back-to-back leave me drained.,Nurse,3,Energy Drink,Nervous,Blog
+Client indecisiveness makes revisions never-ending.,Designer,5,Milk Tea,Tired,Blog
+Surgical emergencies make me anxious.,Doctor,8,Coffee,Nervous,Social Media
+Constant data verification is mentally tiring.,Accountant,6,Energy Drink,Stressed,Blog
+Night patrols disturb my sleep routine.,Police Officer,5,Milk Tea,Tired,Forum
+Frequent virtual meetings leave me drained.,Software Developer,7,Energy Drink,Nervous,Interview
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,8,Black Tea,Overwhelmed,Survey
+Long hours in a hot kitchen leave me tired.,Chef,3,Herbal Tea,Tired,Blog
+Legal formalities keep me mentally occupied all day.,Lawyer,6,Energy Drink,Anxious,Forum
+Conducting back-to-back lectures wears me out.,Teacher,4,Energy Drink,Stressed,Blog
+System outages at night disrupt my sleep.,Engineer,3,Black Tea,Tired,Survey
+Too many exams close together make me anxious.,Student,8,Milk Tea,Tired,Survey
+Double shifts back-to-back leave me drained.,Nurse,4,No Drink,Stressed,Forum
+Client indecisiveness makes revisions never-ending.,Designer,4,Milk Tea,Overwhelmed,Survey
+On-call duty during weekends affects my rest.,Doctor,6,Black Tea,Overwhelmed,Social Media
+Month-end closings keep me up all night.,Accountant,4,Black Tea,Anxious,Survey
+Responding to calls at odd hours makes me anxious.,Police Officer,6,Milk Tea,Nervous,Blog
+Code reviews and feature deadlines stress me.,Software Developer,3,Energy Drink,Overwhelmed,Forum
+Handling angry clients all day is exhausting.,Customer Support Agent,6,Black Tea,Overwhelmed,Blog
+Late closing duties reduce my sleep time.,Chef,3,Milk Tea,Tired,Survey
+Back-to-back hearings give me anxiety.,Lawyer,4,Black Tea,Nervous,Survey
+Unruly students make classroom management stressful.,Teacher,6,Black Tea,Nervous,Social Media
+Technical meetings all day are mentally exhausting.,Engineer,4,Black Tea,Anxious,Interview
+Too many exams close together make me anxious.,Student,7,Herbal Tea,Overwhelmed,Social Media
+Double shifts back-to-back leave me drained.,Nurse,8,Energy Drink,Nervous,Blog
+Client indecisiveness makes revisions never-ending.,Designer,6,Energy Drink,Overwhelmed,Interview
+Surgical emergencies make me anxious.,Doctor,3,Energy Drink,Anxious,Blog
+Constant data verification is mentally tiring.,Accountant,7,No Drink,Overwhelmed,Blog
+Dealing with violent crimes affects my mental state.,Police Officer,3,Herbal Tea,Restless,Forum
+Frequent virtual meetings leave me drained.,Software Developer,4,Green Tea,Restless,Interview
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,5,Milk Tea,Overwhelmed,Blog
+Managing kitchen staff during rush hours stresses me.,Chef,7,Herbal Tea,Restless,Social Media
+Back-to-back hearings give me anxiety.,Lawyer,4,Green Tea,Tired,Forum
+Syllabus planning leaves me mentally tired.,Teacher,7,Herbal Tea,Restless,Forum
+Solving critical bugs under pressure makes me restless.,Engineer,6,Milk Tea,Nervous,Blog
+Too many exams close together make me anxious.,Student,5,Herbal Tea,Nervous,Social Media
+Double shifts back-to-back leave me drained.,Nurse,6,Herbal Tea,Overwhelmed,Blog
+Coming up with creative concepts under pressure is tiring.,Designer,3,Black Tea,Tired,Blog
+Handling critical patients continuously wears me down.,Doctor,4,Green Tea,Stressed,Social Media
+Constant data verification is mentally tiring.,Accountant,5,Green Tea,Stressed,Interview
+Night patrols disturb my sleep routine.,Police Officer,8,Energy Drink,Stressed,Interview
+Deployments failing last minute make me nervous.,Software Developer,4,Coffee,Stressed,Social Media
+Night shifts mess with my sleep cycle.,Customer Support Agent,4,Black Tea,Restless,Survey
+Late closing duties reduce my sleep time.,Chef,8,Black Tea,Stressed,Blog
+Back-to-back hearings give me anxiety.,Lawyer,4,Green Tea,Restless,Survey
+Syllabus planning leaves me mentally tired.,Teacher,6,Milk Tea,Stressed,Social Media
+System outages at night disrupt my sleep.,Engineer,8,Herbal Tea,Tired,Blog
+Revising late at night makes me mentally tired.,Student,7,Coffee,Stressed,Social Media
+Double shifts back-to-back leave me drained.,Nurse,8,Black Tea,Tired,Survey
+Client indecisiveness makes revisions never-ending.,Designer,8,Green Tea,Anxious,Forum
+Handling critical patients continuously wears me down.,Doctor,8,Coffee,Tired,Blog
+Constant data verification is mentally tiring.,Accountant,6,Coffee,Restless,Interview
+Dealing with violent crimes affects my mental state.,Police Officer,7,Milk Tea,Stressed,Social Media
+Frequent virtual meetings leave me drained.,Software Developer,6,Coffee,Nervous,Survey
+Handling angry clients all day is exhausting.,Customer Support Agent,3,Energy Drink,Nervous,Forum
+Long hours in a hot kitchen leave me tired.,Chef,7,Energy Drink,Restless,Survey
+Reviewing evidence until midnight is exhausting.,Lawyer,3,Milk Tea,Restless,Survey
+Taking back-to-back classes leaves me exhausted.,Teacher,4,Black Tea,Overwhelmed,Interview
+Technical meetings all day are mentally exhausting.,Engineer,5,Coffee,Nervous,Social Media
+Revising late at night makes me mentally tired.,Student,4,No Drink,Overwhelmed,Interview
+Night duty frequently breaks my sleep cycle.,Nurse,4,No Drink,Overwhelmed,Forum
+Client indecisiveness makes revisions never-ending.,Designer,6,Black Tea,Overwhelmed,Forum
+Surgical emergencies make me anxious.,Doctor,3,Green Tea,Stressed,Social Media
+Constant data verification is mentally tiring.,Accountant,5,Energy Drink,Restless,Interview
+Responding to calls at odd hours makes me anxious.,Police Officer,8,Energy Drink,Stressed,Survey
+Deployments failing last minute make me nervous.,Software Developer,3,No Drink,Stressed,Survey
+Handling angry clients all day is exhausting.,Customer Support Agent,4,Herbal Tea,Restless,Survey
+Late closing duties reduce my sleep time.,Chef,5,Green Tea,Restless,Survey
+Back-to-back hearings give me anxiety.,Lawyer,5,Green Tea,Tired,Interview
+Syllabus planning leaves me mentally tired.,Teacher,6,Coffee,Nervous,Survey
+Solving critical bugs under pressure makes me restless.,Engineer,7,Black Tea,Overwhelmed,Social Media
+Too many exams close together make me anxious.,Student,6,Coffee,Overwhelmed,Blog
+Emergency cases at odd hours affect my mental peace.,Nurse,3,No Drink,Restless,Blog
+Working on multiple brand campaigns at once overwhelms me.,Designer,6,Herbal Tea,Nervous,Blog
+Surgical emergencies make me anxious.,Doctor,7,Herbal Tea,Anxious,Forum
+Balancing financials with tight deadlines stresses me.,Accountant,7,Energy Drink,Anxious,Interview
+Dealing with violent crimes affects my mental state.,Police Officer,7,Green Tea,Stressed,Blog
+Frequent virtual meetings leave me drained.,Software Developer,8,Black Tea,Restless,Social Media
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,5,Energy Drink,Tired,Blog
+Managing kitchen staff during rush hours stresses me.,Chef,6,Green Tea,Anxious,Forum
+Reviewing evidence until midnight is exhausting.,Lawyer,8,Coffee,Overwhelmed,Social Media
+Unruly students make classroom management stressful.,Teacher,4,Energy Drink,Stressed,Interview
+System outages at night disrupt my sleep.,Engineer,6,Energy Drink,Tired,Forum
+Balancing assignments and social life stresses me.,Student,8,Black Tea,Stressed,Survey
+Double shifts back-to-back leave me drained.,Nurse,6,Herbal Tea,Nervous,Forum
+Working on multiple brand campaigns at once overwhelms me.,Designer,5,Coffee,Stressed,Interview
+On-call duty during weekends affects my rest.,Doctor,8,No Drink,Tired,Survey
+Month-end closings keep me up all night.,Accountant,3,Milk Tea,Overwhelmed,Social Media
+Responding to calls at odd hours makes me anxious.,Police Officer,8,Energy Drink,Overwhelmed,Blog
+Code reviews and feature deadlines stress me.,Software Developer,3,No Drink,Anxious,Social Media
+Night shifts mess with my sleep cycle.,Customer Support Agent,4,Milk Tea,Overwhelmed,Forum
+Late closing duties reduce my sleep time.,Chef,7,Coffee,Tired,Social Media
+Legal formalities keep me mentally occupied all day.,Lawyer,3,No Drink,Restless,Blog
+Syllabus planning leaves me mentally tired.,Teacher,6,Black Tea,Overwhelmed,Blog
+Technical meetings all day are mentally exhausting.,Engineer,5,Milk Tea,Stressed,Interview
+Too many exams close together make me anxious.,Student,7,No Drink,Tired,Survey
+Double shifts back-to-back leave me drained.,Nurse,4,No Drink,Anxious,Forum
+Client indecisiveness makes revisions never-ending.,Designer,6,Green Tea,Anxious,Social Media
+On-call duty during weekends affects my rest.,Doctor,8,No Drink,Anxious,Blog
+Balancing financials with tight deadlines stresses me.,Accountant,8,Black Tea,Overwhelmed,Social Media
+Night patrols disturb my sleep routine.,Police Officer,4,Green Tea,Anxious,Social Media
+Code reviews and feature deadlines stress me.,Software Developer,5,Green Tea,Nervous,Survey
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,4,Coffee,Nervous,Interview
+Late closing duties reduce my sleep time.,Chef,7,Milk Tea,Anxious,Blog
+Reviewing evidence until midnight is exhausting.,Lawyer,6,Herbal Tea,Anxious,Forum
+Unruly students make classroom management stressful.,Teacher,8,Energy Drink,Restless,Blog
+Technical meetings all day are mentally exhausting.,Engineer,7,Black Tea,Anxious,Interview
+Balancing assignments and social life stresses me.,Student,4,Coffee,Anxious,Blog
+Double shifts back-to-back leave me drained.,Nurse,8,Herbal Tea,Stressed,Forum
+Working on multiple brand campaigns at once overwhelms me.,Designer,5,Black Tea,Nervous,Social Media
+Handling critical patients continuously wears me down.,Doctor,4,Milk Tea,Nervous,Forum
+Balancing financials with tight deadlines stresses me.,Accountant,6,Black Tea,Stressed,Forum
+Night patrols disturb my sleep routine.,Police Officer,6,No Drink,Tired,Social Media
+Deployments failing last minute make me nervous.,Software Developer,3,Herbal Tea,Restless,Interview
+Handling angry clients all day is exhausting.,Customer Support Agent,3,Green Tea,Anxious,Forum
+Late closing duties reduce my sleep time.,Chef,3,Energy Drink,Restless,Forum
+Legal formalities keep me mentally occupied all day.,Lawyer,5,Coffee,Nervous,Blog
+Conducting back-to-back lectures wears me out.,Teacher,4,Green Tea,Stressed,Survey
+Solving critical bugs under pressure makes me restless.,Engineer,8,Milk Tea,Nervous,Social Media
+Revising late at night makes me mentally tired.,Student,4,Black Tea,Overwhelmed,Interview
+Emergency cases at odd hours affect my mental peace.,Nurse,8,Energy Drink,Anxious,Social Media
+Client indecisiveness makes revisions never-ending.,Designer,3,Coffee,Anxious,Forum
+Surgical emergencies make me anxious.,Doctor,3,Coffee,Stressed,Blog
+Balancing financials with tight deadlines stresses me.,Accountant,3,Black Tea,Overwhelmed,Blog
+Dealing with violent crimes affects my mental state.,Police Officer,4,Energy Drink,Tired,Survey
+Frequent virtual meetings leave me drained.,Software Developer,6,Green Tea,Restless,Interview
+Handling angry clients all day is exhausting.,Customer Support Agent,6,Green Tea,Stressed,Blog
+Late closing duties reduce my sleep time.,Chef,8,Black Tea,Restless,Blog
+Reviewing evidence until midnight is exhausting.,Lawyer,3,Coffee,Nervous,Interview
+Conducting back-to-back lectures wears me out.,Teacher,4,Milk Tea,Restless,Blog
+Solving critical bugs under pressure makes me restless.,Engineer,6,Herbal Tea,Restless,Social Media
+Revising late at night makes me mentally tired.,Student,8,Energy Drink,Anxious,Survey
+Emergency cases at odd hours affect my mental peace.,Nurse,5,Coffee,Tired,Blog
+Working on multiple brand campaigns at once overwhelms me.,Designer,8,Herbal Tea,Overwhelmed,Social Media
+On-call duty during weekends affects my rest.,Doctor,8,Milk Tea,Nervous,Blog
+Month-end closings keep me up all night.,Accountant,5,Herbal Tea,Tired,Forum
+Dealing with violent crimes affects my mental state.,Police Officer,5,No Drink,Overwhelmed,Blog
+Code reviews and feature deadlines stress me.,Software Developer,6,Herbal Tea,Overwhelmed,Social Media
+Handling angry clients all day is exhausting.,Customer Support Agent,7,No Drink,Restless,Survey
+Long hours in a hot kitchen leave me tired.,Chef,8,Coffee,Nervous,Survey
+Reviewing evidence until midnight is exhausting.,Lawyer,4,No Drink,Overwhelmed,Blog
+Unruly students make classroom management stressful.,Teacher,7,Energy Drink,Nervous,Blog
+Solving critical bugs under pressure makes me restless.,Engineer,3,No Drink,Tired,Blog
+Too many exams close together make me anxious.,Student,5,Black Tea,Restless,Forum
+Night duty frequently breaks my sleep cycle.,Nurse,7,Milk Tea,Overwhelmed,Survey
+Coming up with creative concepts under pressure is tiring.,Designer,8,Energy Drink,Stressed,Interview
+Handling critical patients continuously wears me down.,Doctor,3,Energy Drink,Anxious,Forum
+Balancing financials with tight deadlines stresses me.,Accountant,3,No Drink,Overwhelmed,Survey
+Responding to calls at odd hours makes me anxious.,Police Officer,5,Milk Tea,Overwhelmed,Survey
+Code reviews and feature deadlines stress me.,Software Developer,6,Green Tea,Nervous,Interview
+Night shifts mess with my sleep cycle.,Customer Support Agent,3,Coffee,Stressed,Blog
+Late closing duties reduce my sleep time.,Chef,8,Herbal Tea,Nervous,Interview
+Reviewing evidence until midnight is exhausting.,Lawyer,4,Milk Tea,Stressed,Social Media
+Conducting back-to-back lectures wears me out.,Teacher,5,Green Tea,Tired,Social Media
+System outages at night disrupt my sleep.,Engineer,6,Coffee,Overwhelmed,Survey
+Balancing assignments and social life stresses me.,Student,4,No Drink,Restless,Blog
+Emergency cases at odd hours affect my mental peace.,Nurse,6,Milk Tea,Nervous,Blog
+Client indecisiveness makes revisions never-ending.,Designer,4,Energy Drink,Overwhelmed,Social Media
+Handling critical patients continuously wears me down.,Doctor,3,No Drink,Overwhelmed,Social Media
+Month-end closings keep me up all night.,Accountant,3,Energy Drink,Anxious,Social Media
+Responding to calls at odd hours makes me anxious.,Police Officer,7,Coffee,Nervous,Social Media
+Deployments failing last minute make me nervous.,Software Developer,7,Black Tea,Overwhelmed,Blog
+Handling angry clients all day is exhausting.,Customer Support Agent,4,No Drink,Nervous,Forum
+Long hours in a hot kitchen leave me tired.,Chef,8,Herbal Tea,Tired,Social Media
+Reviewing evidence until midnight is exhausting.,Lawyer,4,Energy Drink,Tired,Blog
+Syllabus planning leaves me mentally tired.,Teacher,3,Milk Tea,Restless,Survey
+Solving critical bugs under pressure makes me restless.,Engineer,3,Herbal Tea,Stressed,Blog
+Balancing assignments and social life stresses me.,Student,3,Milk Tea,Stressed,Interview
+Double shifts back-to-back leave me drained.,Nurse,4,Herbal Tea,Restless,Interview
+Client indecisiveness makes revisions never-ending.,Designer,4,Herbal Tea,Restless,Social Media
+Handling critical patients continuously wears me down.,Doctor,7,No Drink,Nervous,Forum
+Constant data verification is mentally tiring.,Accountant,7,Energy Drink,Overwhelmed,Interview
+Dealing with violent crimes affects my mental state.,Police Officer,4,Energy Drink,Stressed,Social Media
+Deployments failing last minute make me nervous.,Software Developer,8,Milk Tea,Tired,Forum
+Night shifts mess with my sleep cycle.,Customer Support Agent,3,Herbal Tea,Tired,Blog
+Managing kitchen staff during rush hours stresses me.,Chef,5,Energy Drink,Restless,Survey
+Legal formalities keep me mentally occupied all day.,Lawyer,7,Milk Tea,Overwhelmed,Survey
+Syllabus planning leaves me mentally tired.,Teacher,4,Coffee,Tired,Survey
+Technical meetings all day are mentally exhausting.,Engineer,7,Herbal Tea,Overwhelmed,Survey
+Revising late at night makes me mentally tired.,Student,8,Coffee,Restless,Interview
+Doing night duty again and again disturbs my natural sleep rhythm.,Nurse,3,Coffee,Restless,Forum
+Coming up with creative concepts under pressure is tiring.,Designer,6,Black Tea,Stressed,Interview
+Surgical emergencies make me anxious.,Doctor,4,No Drink,Nervous,Social Media
+Balancing financials with tight deadlines stresses me.,Accountant,4,Coffee,Nervous,Social Media
+Dealing with violent crimes affects my mental state.,Police Officer,3,Coffee,Stressed,Blog
+Deployments failing last minute make me nervous.,Software Developer,6,Black Tea,Overwhelmed,Social Media
+Handling angry clients all day is exhausting.,Customer Support Agent,4,Milk Tea,Stressed,Forum
+Late closing duties reduce my sleep time.,Chef,5,No Drink,Anxious,Forum
+Back-to-back hearings give me anxiety.,Lawyer,6,Black Tea,Overwhelmed,Survey
+Conducting back-to-back lectures wears me out.,Teacher,4,Energy Drink,Nervous,Forum
+Solving critical bugs under pressure makes me restless.,Engineer,6,Black Tea,Overwhelmed,Blog
+Balancing assignments and social life stresses me.,Student,8,No Drink,Anxious,Forum
+Emergency cases at odd hours affect my mental peace.,Nurse,3,Milk Tea,Overwhelmed,Forum
+Coming up with creative concepts under pressure is tiring.,Designer,8,Coffee,Tired,Interview
+On-call duty during weekends affects my rest.,Doctor,3,Energy Drink,Restless,Survey
+Balancing financials with tight deadlines stresses me.,Accountant,6,Energy Drink,Anxious,Forum
+Responding to calls at odd hours makes me anxious.,Police Officer,5,Green Tea,Nervous,Interview
+Frequent virtual meetings leave me drained.,Software Developer,6,Coffee,Restless,Social Media
+Night shifts mess with my sleep cycle.,Customer Support Agent,6,Coffee,Nervous,Blog
+Managing kitchen staff during rush hours stresses me.,Chef,6,Coffee,Stressed,Forum
+Legal formalities keep me mentally occupied all day.,Lawyer,4,No Drink,Anxious,Blog
+Delivering nonstop lectures really wears me down..,Teacher,7,Energy Drink,Nervous,Blog
+Solving critical bugs under pressure makes me restless.,Engineer,4,Energy Drink,Overwhelmed,Survey
+Revising late at night makes me mentally tired.,Student,7,No Drink,Stressed,Social Media
+Night duty frequently breaks my sleep cycle.,Nurse,3,Herbal Tea,Overwhelmed,Survey
+Client indecisiveness makes revisions never-ending.,Designer,4,Coffee,Overwhelmed,Blog
+Handling critical patients continuously wears me down.,Doctor,6,Milk Tea,Restless,Forum
+Constant data verification is mentally tiring.,Accountant,8,No Drink,Anxious,Survey
+Responding to calls at odd hours makes me anxious.,Police Officer,5,Energy Drink,Restless,Forum
+Deployments failing last minute make me nervous.,Software Developer,5,Green Tea,Tired,Survey
+Night shifts mess with my sleep cycle.,Customer Support Agent,8,Herbal Tea,Restless,Interview
+Long hours in a hot kitchen leave me tired.,Chef,5,Herbal Tea,Anxious,Survey
+Reviewing evidence until midnight is exhausting.,Lawyer,6,No Drink,Anxious,Interview
+Syllabus planning leaves me mentally tired.,Teacher,6,Black Tea,Nervous,Forum
+System outages at night disrupt my sleep.,Engineer,4,Black Tea,Restless,Survey
+Balancing assignments and social life stresses me.,Student,3,Green Tea,Nervous,Survey
+Double shifts back-to-back leave me drained.,Nurse,3,No Drink,Stressed,Forum
+Working on multiple brand campaigns at once overwhelms me.,Designer,4,Black Tea,Restless,Social Media
+On-call duty during weekends affects my rest.,Doctor,4,Black Tea,Overwhelmed,Interview
+Month-end closings keep me up all night.,Accountant,7,Milk Tea,Overwhelmed,Social Media
+Dealing with violent crimes affects my mental state.,Police Officer,5,Energy Drink,Stressed,Social Media
+Frequent virtual meetings leave me drained.,Software Developer,6,Milk Tea,Stressed,Forum
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,3,Coffee,Tired,Survey
+Late closing duties reduce my sleep time.,Chef,3,Herbal Tea,Overwhelmed,Forum
+Back-to-back hearings give me anxiety.,Lawyer,3,Milk Tea,Nervous,Blog
+Unruly students make classroom management stressful.,Teacher,5,Milk Tea,Overwhelmed,Blog
+Solving critical bugs under pressure makes me restless.,Engineer,3,Green Tea,Stressed,Survey
+Too many exams close together make me anxious.,Student,8,Coffee,Nervous,Survey
+Emergency cases at odd hours affect my mental peace.,Nurse,5,Milk Tea,Anxious,Forum
+Working on multiple brand campaigns at once overwhelms me.,Designer,7,Green Tea,Stressed,Blog
+On-call duty during weekends affects my rest.,Doctor,7,Coffee,Restless,Blog
+Constant data verification is mentally tiring.,Accountant,3,Energy Drink,Anxious,Blog
+Night patrols disturb my sleep routine.,Police Officer,3,Milk Tea,Restless,Social Media
+Deployments failing last minute make me nervous.,Software Developer,8,Black Tea,Anxious,Survey
+Night shifts mess with my sleep cycle.,Customer Support Agent,6,No Drink,Tired,Interview
+Managing kitchen staff during rush hours stresses me.,Chef,4,Herbal Tea,Nervous,Blog
+Reviewing evidence until midnight is exhausting.,Lawyer,3,Milk Tea,Overwhelmed,Blog
+Unruly students make classroom management stressful.,Teacher,7,Herbal Tea,Stressed,Forum
+Solving critical bugs under pressure makes me restless.,Engineer,8,Coffee,Restless,Social Media
+Revising late at night makes me mentally tired.,Student,5,Black Tea,Restless,Forum
+Double shifts back-to-back leave me drained.,Nurse,8,Energy Drink,Overwhelmed,Blog
+Working on multiple brand campaigns at once overwhelms me.,Designer,5,Energy Drink,Overwhelmed,Interview
+Handling critical patients continuously wears me down.,Doctor,5,Milk Tea,Stressed,Social Media
+Balancing financials with tight deadlines stresses me.,Accountant,7,Milk Tea,Restless,Blog
+Night patrols disturb my sleep routine.,Police Officer,7,Black Tea,Nervous,Interview
+Code reviews and feature deadlines stress me.,Software Developer,5,Black Tea,Restless,Survey
+Night shifts mess with my sleep cycle.,Customer Support Agent,7,Black Tea,Tired,Forum
+Long hours in a hot kitchen leave me tired.,Chef,8,Energy Drink,Nervous,Blog
+Legal formalities keep me mentally occupied all day.,Lawyer,7,Milk Tea,Nervous,Interview
+Conducting back-to-back lectures wears me out.,Teacher,3,Green Tea,Tired,Interview
+Solving critical bugs under pressure makes me restless.,Engineer,6,No Drink,Nervous,Blog
+Too many exams close together make me anxious.,Student,3,No Drink,Restless,Social Media
+Double shifts back-to-back leave me drained.,Nurse,3,No Drink,Anxious,Social Media
+Working on multiple brand campaigns at once overwhelms me.,Designer,4,Coffee,Nervous,Forum
+Surgical emergencies make me anxious.,Doctor,4,Herbal Tea,Anxious,Interview
+Constant data verification is mentally tiring.,Accountant,7,Coffee,Anxious,Interview
+Responding to calls at odd hours makes me anxious.,Police Officer,6,Herbal Tea,Overwhelmed,Interview
+Frequent virtual meetings leave me drained.,Software Developer,7,Milk Tea,Nervous,Social Media
+Handling angry clients all day is exhausting.,Customer Support Agent,8,Herbal Tea,Tired,Survey
+Late closing duties reduce my sleep time.,Chef,3,Black Tea,Nervous,Interview
+Back-to-back hearings give me anxiety.,Lawyer,8,No Drink,Tired,Blog
+Conducting back-to-back lectures wears me out.,Teacher,8,Coffee,Nervous,Blog
+Solving critical bugs under pressure makes me restless.,Engineer,5,No Drink,Tired,Interview
+Too many exams close together make me anxious.,Student,8,No Drink,Restless,Interview
+Night duty frequently breaks my sleep cycle.,Nurse,6,Black Tea,Stressed,Forum
+Client indecisiveness makes revisions never-ending.,Designer,4,Milk Tea,Anxious,Survey
+Handling critical patients continuously wears me down.,Doctor,4,No Drink,Stressed,Forum
+Balancing financials with tight deadlines stresses me.,Accountant,5,Black Tea,Anxious,Forum
+Responding to calls at odd hours makes me anxious.,Police Officer,3,Energy Drink,Tired,Survey
+Code reviews and feature deadlines stress me.,Software Developer,5,Black Tea,Nervous,Social Media
+Night shifts mess with my sleep cycle.,Customer Support Agent,5,Herbal Tea,Overwhelmed,Social Media
+Managing kitchen staff during rush hours stresses me.,Chef,4,No Drink,Tired,Forum
+Legal formalities keep me mentally occupied all day.,Lawyer,6,Energy Drink,Restless,Forum
+Conducting back-to-back lectures wears me out.,Teacher,5,Green Tea,Tired,Interview
+Technical meetings all day are mentally exhausting.,Engineer,8,No Drink,Stressed,Social Media
+Balancing assignments and social life stresses me.,Student,5,Milk Tea,Overwhelmed,Forum
+Night duty frequently breaks my sleep cycle.,Nurse,6,Herbal Tea,Overwhelmed,Blog
+Client indecisiveness makes revisions never-ending.,Designer,8,No Drink,Stressed,Survey
+Handling critical patients continuously wears me down.,Doctor,8,Green Tea,Anxious,Forum
+Constant data verification is mentally tiring.,Accountant,5,Milk Tea,Anxious,Social Media
+Responding to calls at odd hours makes me anxious.,Police Officer,6,Energy Drink,Anxious,Interview
+Frequent virtual meetings leave me drained.,Software Developer,6,Green Tea,Restless,Interview
+Night shifts mess with my sleep cycle.,Customer Support Agent,7,Herbal Tea,Overwhelmed,Forum
+Managing kitchen staff during rush hours stresses me.,Chef,7,Energy Drink,Restless,Interview
+Reviewing evidence until midnight is exhausting.,Lawyer,4,Milk Tea,Overwhelmed,Survey
+Conducting back-to-back lectures wears me out.,Teacher,3,Black Tea,Stressed,Forum
+Solving critical bugs under pressure makes me restless.,Engineer,6,No Drink,Anxious,Social Media
+Too many exams close together make me anxious.,Student,8,No Drink,Tired,Survey
+Double shifts back-to-back leave me drained.,Nurse,8,Energy Drink,Nervous,Blog
+Coming up with creative concepts under pressure is tiring.,Designer,5,Herbal Tea,Stressed,Social Media
+Surgical emergencies make me anxious.,Doctor,5,Black Tea,Stressed,Forum
+Balancing financials with tight deadlines stresses me.,Accountant,7,Milk Tea,Tired,Blog
+Dealing with violent crimes affects my mental state.,Police Officer,8,Milk Tea,Overwhelmed,Interview
+Deployments failing last minute make me nervous.,Software Developer,5,Green Tea,Tired,Blog
+Handling angry clients all day is exhausting.,Customer Support Agent,6,Coffee,Tired,Blog
+Managing kitchen staff during rush hours stresses me.,Chef,5,Energy Drink,Nervous,Interview
+Legal formalities keep me mentally occupied all day.,Lawyer,7,No Drink,Nervous,Social Media
+Unruly students make classroom management stressful.,Teacher,7,Black Tea,Stressed,Survey
+System outages at night disrupt my sleep.,Engineer,6,Milk Tea,Nervous,Interview
+Revising late at night makes me mentally tired.,Student,6,Milk Tea,Anxious,Social Media
+Double shifts back-to-back leave me drained.,Nurse,5,Energy Drink,Anxious,Interview
+Coming up with creative concepts under pressure is tiring.,Designer,7,No Drink,Tired,Survey
+On-call duty during weekends affects my rest.,Doctor,8,Herbal Tea,Overwhelmed,Interview
+Balancing financials with tight deadlines stresses me.,Accountant,6,Herbal Tea,Nervous,Blog
+Dealing with violent crimes affects my mental state.,Police Officer,4,Energy Drink,Restless,Interview
+Deployments failing last minute make me nervous.,Software Developer,5,Herbal Tea,Stressed,Blog
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,5,Black Tea,Stressed,Survey
+Long hours in a hot kitchen leave me tired.,Chef,8,Herbal Tea,Nervous,Survey
+Reviewing evidence until midnight is exhausting.,Lawyer,6,Black Tea,Tired,Blog
+Unruly students make classroom management stressful.,Teacher,5,Milk Tea,Tired,Survey
+Technical meetings all day are mentally exhausting.,Engineer,8,Milk Tea,Restless,Interview
+Balancing assignments and social life stresses me.,Student,7,No Drink,Tired,Social Media
+Night duty frequently breaks my sleep cycle.,Nurse,7,Milk Tea,Nervous,Social Media
+Client indecisiveness makes revisions never-ending.,Designer,5,Herbal Tea,Overwhelmed,Blog
+Handling critical patients continuously wears me down.,Doctor,6,No Drink,Anxious,Forum
+Constant data verification is mentally tiring.,Accountant,7,Coffee,Anxious,Interview
+Responding to calls at odd hours makes me anxious.,Police Officer,7,Green Tea,Anxious,Interview
+Code reviews and feature deadlines stress me.,Software Developer,7,No Drink,Stressed,Survey
+Handling angry clients all day is exhausting.,Customer Support Agent,4,Coffee,Nervous,Forum
+Late closing duties reduce my sleep time.,Chef,5,Green Tea,Tired,Blog
+Back-to-back hearings give me anxiety.,Lawyer,5,Energy Drink,Anxious,Social Media
+Conducting back-to-back lectures wears me out.,Teacher,3,Coffee,Tired,Social Media
+Solving critical bugs under pressure makes me restless.,Engineer,7,Milk Tea,Overwhelmed,Forum
+Revising late at night makes me mentally tired.,Student,6,Coffee,Tired,Social Media
+Night duty frequently breaks my sleep cycle.,Nurse,4,Energy Drink,Stressed,Survey
+Client indecisiveness makes revisions never-ending.,Designer,6,Green Tea,Tired,Forum
+Surgical emergencies make me anxious.,Doctor,3,Energy Drink,Anxious,Blog
+Constant data verification is mentally tiring.,Accountant,4,Green Tea,Restless,Blog
+Dealing with violent crimes affects my mental state.,Police Officer,6,Herbal Tea,Tired,Interview
+Frequent virtual meetings leave me drained.,Software Developer,8,No Drink,Restless,Blog
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,5,Milk Tea,Nervous,Forum
+Late closing duties reduce my sleep time.,Chef,8,Green Tea,Overwhelmed,Survey
+Back-to-back hearings give me anxiety.,Lawyer,8,Energy Drink,Tired,Forum
+Syllabus planning leaves me mentally tired.,Teacher,6,Green Tea,Anxious,Interview
+Technical meetings all day are mentally exhausting.,Engineer,5,No Drink,Anxious,Blog
+Too many exams close together make me anxious.,Student,6,Herbal Tea,Tired,Social Media
+Double shifts back-to-back leave me drained.,Nurse,5,Herbal Tea,Anxious,Forum
+Working on multiple brand campaigns at once overwhelms me.,Designer,7,Green Tea,Tired,Survey
+On-call duty during weekends affects my rest.,Doctor,7,Green Tea,Anxious,Survey
+Month-end closings keep me up all night.,Accountant,5,Herbal Tea,Tired,Social Media
+Dealing with violent crimes affects my mental state.,Police Officer,3,Herbal Tea,Anxious,Blog
+Deployments failing last minute make me nervous.,Software Developer,3,Energy Drink,Nervous,Forum
+Night shifts mess with my sleep cycle.,Customer Support Agent,3,Herbal Tea,Overwhelmed,Blog
+Late closing duties reduce my sleep time.,Chef,3,Green Tea,Nervous,Social Media
+Back-to-back hearings give me anxiety.,Lawyer,7,Black Tea,Nervous,Forum
+Syllabus planning leaves me mentally tired.,Teacher,5,No Drink,Restless,Blog
+Solving critical bugs under pressure makes me restless.,Engineer,6,Coffee,Tired,Interview
+Revising late at night makes me mentally tired.,Student,3,Coffee,Anxious,Interview
+Double shifts back-to-back leave me drained.,Nurse,8,Milk Tea,Anxious,Blog
+Working on multiple brand campaigns at once overwhelms me.,Designer,4,Coffee,Tired,Survey
+Surgical emergencies make me anxious.,Doctor,7,Coffee,Nervous,Social Media
+Constant data verification is mentally tiring.,Accountant,4,Black Tea,Anxious,Survey
+Dealing with violent crimes affects my mental state.,Police Officer,6,Coffee,Stressed,Blog
+Code reviews and feature deadlines stress me.,Software Developer,4,Milk Tea,Nervous,Social Media
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,3,Black Tea,Overwhelmed,Interview
+Late closing duties reduce my sleep time.,Chef,5,Herbal Tea,Anxious,Survey
+Reviewing evidence until midnight is exhausting.,Lawyer,6,Green Tea,Tired,Blog
+Conducting back-to-back lectures wears me out.,Teacher,8,No Drink,Nervous,Social Media
+System outages at night disrupt my sleep.,Engineer,5,No Drink,Anxious,Interview
+Balancing assignments and social life stresses me.,Student,7,No Drink,Nervous,Survey
+Emergency cases at odd hours affect my mental peace.,Nurse,3,Milk Tea,Restless,Forum
+Client indecisiveness makes revisions never-ending.,Designer,6,Black Tea,Restless,Interview
+Handling critical patients continuously wears me down.,Doctor,6,Black Tea,Overwhelmed,Blog
+Constant data verification is mentally tiring.,Accountant,4,Coffee,Anxious,Blog
+Dealing with violent crimes affects my mental state.,Police Officer,6,Energy Drink,Nervous,Survey
+Code reviews and feature deadlines stress me.,Software Developer,5,Milk Tea,Anxious,Blog
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,8,Coffee,Tired,Social Media
+Long hours in a hot kitchen leave me tired.,Chef,3,No Drink,Overwhelmed,Blog
+Back-to-back hearings give me anxiety.,Lawyer,8,Coffee,Tired,Interview
+Unruly students make classroom management stressful.,Teacher,3,Milk Tea,Nervous,Interview
+Technical meetings all day are mentally exhausting.,Engineer,7,Milk Tea,Nervous,Forum
+Balancing assignments and social life stresses me.,Student,6,Milk Tea,Restless,Forum
+Double shifts back-to-back leave me drained.,Nurse,5,Herbal Tea,Nervous,Blog
+Working on multiple brand campaigns at once overwhelms me.,Designer,3,Milk Tea,Anxious,Forum
+Handling critical patients continuously wears me down.,Doctor,3,Herbal Tea,Restless,Forum
+Month-end closings keep me up all night.,Accountant,4,Green Tea,Restless,Blog
+Dealing with violent crimes affects my mental state.,Police Officer,3,No Drink,Tired,Blog
+Deployments failing last minute make me nervous.,Software Developer,6,Green Tea,Tired,Forum
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,4,Energy Drink,Tired,Interview
+Managing kitchen staff during rush hours stresses me.,Chef,7,Energy Drink,Stressed,Forum
+Reviewing evidence until midnight is exhausting.,Lawyer,8,No Drink,Restless,Survey
+Unruly students make classroom management stressful.,Teacher,3,Green Tea,Overwhelmed,Social Media
+System outages at night disrupt my sleep.,Engineer,8,Herbal Tea,Nervous,Blog
+Too many exams close together make me anxious.,Student,8,Coffee,Restless,Interview
+Night duty frequently breaks my sleep cycle.,Nurse,7,Herbal Tea,Overwhelmed,Social Media
+Coming up with creative concepts under pressure is tiring.,Designer,6,Milk Tea,Overwhelmed,Interview
+On-call duty during weekends affects my rest.,Doctor,8,Herbal Tea,Nervous,Social Media
+Constant data verification is mentally tiring.,Accountant,5,Coffee,Overwhelmed,Forum
+Responding to calls at odd hours makes me anxious.,Police Officer,8,Black Tea,Restless,Survey
+Code reviews and feature deadlines stress me.,Software Developer,7,No Drink,Anxious,Survey
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,3,Coffee,Overwhelmed,Blog
+Long hours in a hot kitchen leave me tired.,Chef,6,Energy Drink,Anxious,Forum
+Back-to-back hearings give me anxiety.,Lawyer,4,Black Tea,Anxious,Forum
+Conducting back-to-back lectures wears me out.,Teacher,8,Energy Drink,Restless,Forum
+System outages at night disrupt my sleep.,Engineer,5,Herbal Tea,Nervous,Interview
+Revising late at night makes me mentally tired.,Student,7,No Drink,Overwhelmed,Forum
+Double shifts back-to-back leave me drained.,Nurse,6,Green Tea,Restless,Blog
+Working on multiple brand campaigns at once overwhelms me.,Designer,6,Black Tea,Anxious,Social Media
+Surgical emergencies make me anxious.,Doctor,7,No Drink,Anxious,Interview
+Constant data verification is mentally tiring.,Accountant,7,Herbal Tea,Tired,Forum
+Night patrols disturb my sleep routine.,Police Officer,6,Green Tea,Stressed,Interview
+Frequent virtual meetings leave me drained.,Software Developer,5,Green Tea,Anxious,Interview
+Dealing with angry clients all day wears me out.,Customer Support Agent,8,Milk Tea,Anxious,Social Media
+Long hours in a hot kitchen leave me tired.,Chef,5,Green Tea,Stressed,Interview
+Back-to-back hearings give me anxiety.,Lawyer,3,Milk Tea,Restless,Interview
+Syllabus planning leaves me mentally tired.,Teacher,3,Energy Drink,Stressed,Forum
+Technical meetings all day are mentally exhausting.,Engineer,8,Milk Tea,Nervous,Social Media
+Revising late at night makes me mentally tired.,Student,6,Energy Drink,Anxious,Social Media
+Night duty frequently breaks my sleep cycle.,Nurse,3,Milk Tea,Stressed,Interview
+Working on multiple brand campaigns at once overwhelms me.,Designer,6,Energy Drink,Stressed,Forum
+Handling critical patients continuously wears me down.,Doctor,8,Herbal Tea,Stressed,Social Media
+Constant data verification is mentally tiring.,Accountant,6,Coffee,Tired,Social Media
+Responding to calls at odd hours makes me anxious.,Police Officer,4,Black Tea,Tired,Social Media
+Frequent virtual meetings leave me drained.,Software Developer,8,Black Tea,Restless,Forum
+Handling angry clients all day is exhausting.,Customer Support Agent,8,Black Tea,Anxious,Interview
+Long hours in a hot kitchen leave me tired.,Chef,7,Milk Tea,Anxious,Forum
+Legal formalities keep me mentally occupied all day.,Lawyer,7,Coffee,Tired,Forum
+Syllabus planning leaves me mentally tired.,Teacher,7,Energy Drink,Restless,Survey
+Technical meetings all day are mentally exhausting.,Engineer,3,Black Tea,Restless,Interview
+Balancing assignments and social life stresses me.,Student,7,No Drink,Restless,Interview
+Double shifts back-to-back leave me drained.,Nurse,5,Black Tea,Stressed,Social Media
+Working on multiple brand campaigns at once overwhelms me.,Designer,8,Energy Drink,Nervous,Forum
+On-call duty during weekends affects my rest.,Doctor,8,Black Tea,Restless,Interview
+Month-end closings keep me up all night.,Accountant,3,Green Tea,Stressed,Interview
+Responding to calls at odd hours makes me anxious.,Police Officer,6,Herbal Tea,Stressed,Survey
+Code reviews and feature deadlines stress me.,Software Developer,7,Herbal Tea,Tired,Social Media
+Night shifts mess with my sleep cycle.,Customer Support Agent,6,Milk Tea,Restless,Interview
+Late closing duties reduce my sleep time.,Chef,6,Green Tea,Anxious,Social Media
+Legal formalities keep me mentally occupied all day.,Lawyer,4,Black Tea,Restless,Blog
+Syllabus planning leaves me mentally tired.,Teacher,3,No Drink,Anxious,Forum
+Solving critical bugs under pressure makes me restless.,Engineer,8,Green Tea,Tired,Blog
+Balancing assignments and social life stresses me.,Student,3,No Drink,Stressed,Survey
+Double shifts back-to-back leave me drained.,Nurse,4,Black Tea,Stressed,Social Media
+Coming up with creative concepts under pressure is tiring.,Designer,6,Energy Drink,Anxious,Survey
+On-call duty during weekends affects my rest.,Doctor,6,No Drink,Anxious,Forum
+Month-end closings keep me up all night.,Accountant,3,Herbal Tea,Anxious,Survey
+Responding to calls at odd hours makes me anxious.,Police Officer,6,No Drink,Restless,Forum
+Code reviews and feature deadlines stress me.,Software Developer,5,Coffee,Tired,Social Media
+Handling angry clients all day is exhausting.,Customer Support Agent,5,Green Tea,Stressed,Social Media
+Late closing duties reduce my sleep time.,Chef,3,Coffee,Restless,Survey
+Legal formalities keep me mentally occupied all day.,Lawyer,6,No Drink,Restless,Forum
+Syllabus planning leaves me mentally tired.,Teacher,5,Herbal Tea,Anxious,Interview
+Solving critical bugs under pressure makes me restless.,Engineer,3,No Drink,Restless,Blog
+Balancing assignments and social life stresses me.,Student,8,Black Tea,Overwhelmed,Forum
+Emergency cases at odd hours affect my mental peace.,Nurse,6,Green Tea,Stressed,Social Media
+Client indecisiveness makes revisions never-ending.,Designer,4,Coffee,Stressed,Interview
+On-call duty during weekends affects my rest.,Doctor,7,Green Tea,Anxious,Social Media
+Constant data verification is mentally tiring.,Accountant,3,Black Tea,Stressed,Interview
+Dealing with violent crimes affects my mental state.,Police Officer,4,Black Tea,Tired,Blog
+Deployments failing last minute make me nervous.,Software Developer,7,Energy Drink,Restless,Blog
+Back-to-back calls make me feel mentally fatigued.,Customer Support Agent,8,No Drink,Anxious,Social Media
+Managing kitchen staff during rush hours stresses me.,Chef,7,Black Tea,Restless,Survey
+Legal formalities keep me mentally occupied all day.,Lawyer,4,Green Tea,Tired,Social Media
+Syllabus planning leaves me mentally tired.,Teacher,8,Milk Tea,Stressed,Survey
+System outages at night disrupt my sleep.,Engineer,5,Energy Drink,Overwhelmed,Blog
+Revising late at night makes me mentally tired.,Student,4,Green Tea,Overwhelmed,Social Media
+Night duty frequently breaks my sleep cycle.,Nurse,4,Black Tea,Tired,Survey
+Working on multiple brand campaigns at once overwhelms me.,Designer,7,Energy Drink,Stressed,Social Media
+On-call duty during weekends affects my rest.,Doctor,6,Energy Drink,Stressed,Interview
+Trying to manage budgets and beat tight deadlines drains me mentally.,Accountant,7,No Drink,Tired,Interview
+Answering calls at unexpected times makes me uneasy.,Police Officer,6,Energy Drink,Nervous,Forum
+Frequent virtual meetings leave me drained.,Software Developer,3,Energy Drink,Overwhelmed,Blog
+Night shifts mess with my sleep cycle.,Customer Support Agent,6,Herbal Tea,Nervous,Survey
+Late closing duties reduce my sleep time.,Chef,5,Milk Tea,Restless,Survey
+Reviewing evidence until midnight is exhausting.,Lawyer,5,Herbal Tea,Stressed,Blog
+Conducting back-to-back lectures wears me out.,Teacher,7,Herbal Tea,Restless,Forum
+Solving critical bugs under pressure makes me restless.,Engineer,4,Milk Tea,Tired,Social Media
+Balancing assignments and social life stresses me.,Student,7,Milk Tea,Anxious,Survey
+Emergency cases at odd hours affect my mental peace.,Nurse,4,Black Tea,Stressed,Social Media
+Client indecisiveness makes revisions never-ending.,Designer,7,Herbal Tea,Tired,Survey
+On-call duty during weekends affects my rest.,Doctor,6,No Drink,Nervous,Social Media
+Balancing financials with tight deadlines stresses me.,Accountant,4,Herbal Tea,Overwhelmed,Survey
+Responding to calls at odd hours makes me anxious.,Police Officer,6,Black Tea,Restless,Survey
+Code reviews and feature deadlines stress me.,Software Developer,5,Coffee,Anxious,Blog
+It's exhausting to handle frustrated clients all day long.,Customer Support Agent,8,Green Tea,Tired,Social Media
+Managing kitchen staff during rush hours stresses me.,Chef,7,Black Tea,Nervous,Forum
+Back-to-back hearings give me anxiety.,Lawyer,7,Milk Tea,Tired,Blog
+Unruly students make classroom management stressful.,Teacher,7,Herbal Tea,Stressed,Interview
+Solving critical bugs under pressure makes me restless.,Engineer,6,No Drink,Overwhelmed,Forum
+Too many exams close together make me anxious.,Student,4,Black Tea,Stressed,Survey
+Night duty frequently breaks my sleep cycle.,Nurse,5,Energy Drink,Nervous,Forum
+Coming up with creative concepts under pressure is tiring.,Designer,4,Herbal Tea,Stressed,Social Media
+On-call duty during weekends affects my rest.,Doctor,3,Herbal Tea,Overwhelmed,Blog
+Constant data verification is mentally tiring.,Accountant,7,Black Tea,Restless,Blog
+Night patrols disturb my sleep routine.,Police Officer,5,Coffee,Restless,Interview
+Code reviews and feature deadlines stress me.,Software Developer,4,Black Tea,Restless,Social Media
+Handling angry clients all day is exhausting.,Customer Support Agent,8,Energy Drink,Stressed,Social Media
+Long hours in a hot kitchen leave me tired.,Chef,3,Green Tea,Restless,Forum
+Back-to-back hearings give me anxiety.,Lawyer,4,Energy Drink,Tired,Survey
+Unruly students make classroom management stressful.,Teacher,8,Black Tea,Overwhelmed,Forum
+Technical meetings all day are mentally exhausting.,Engineer,8,Coffee,Tired,Forum
+Revising late at night makes me mentally tired.,Student,7,Milk Tea,Nervous,Blog
+Night duty frequently breaks my sleep cycle.,Nurse,3,No Drink,Tired,Blog
+Working on multiple brand campaigns at once overwhelms me.,Designer,5,Coffee,Nervous,Blog
+On-call duty during weekends affects my rest.,Doctor,8,Black Tea,Stressed,Blog
+Managing finances while meeting tight deadlines puts a lot of pressure on me,Accountant,4,No Drink,Anxious,Blog
